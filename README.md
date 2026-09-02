@@ -10,6 +10,8 @@ This repository currently includes the following folders
   * REV3MAX swerve module
   * D500 lidar
 * SolidWorks
+  * Simplified SolidWorks assembly of charlotte
+  * D500 lidar
 
 
 
